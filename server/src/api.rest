@@ -1,0 +1,10 @@
+###
+GET http://localhost:3000/api/corrales
+
+###
+POST http://localhost:3000/api/corrales
+Content-Type: application/json
+
+{
+   "name" : "Juan"
+}
